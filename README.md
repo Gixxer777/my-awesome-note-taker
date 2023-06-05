@@ -16,7 +16,7 @@
   You must install Express 4.16.4 and UUID 8.3.2
  
   ## Usage
-  To use this application, clone the repository and then run "npm i -s" in the terminal to download the dependencies. After that, run "node server.js" in the terminal. Go to http://localhost:3001 to use the application. Also, it is at a live server on Heroku at: https://my-awesome-note-taker.herokuapp.com/.
+  To use this application, clone the repository and then run "npm i -s" in the terminal to download the dependencies. After that, run "node server.js" in the terminal. Go to http://localhost:3001 to use the application locally. Also, it is at a live server on Heroku at: https://my-awesome-note-taker.herokuapp.com/.
  
   ## Contributing
   1. Express.js-app.delete() Method. (https://www.tutorialspoint.com/express-js-app-delete-method). 2023.
@@ -37,5 +37,13 @@
       This project is licensed under the MIT license.
   
 * [License](#license)
+
+
+![Screenshot 2023-06-05 180507](https://github.com/Gixxer777/my-awesome-note-taker/assets/127446403/a39ddc34-c322-499f-9716-6f27d2fb0d36)
+
+![Screenshot 2023-06-05 180607](https://github.com/Gixxer777/my-awesome-note-taker/assets/127446403/72287878-02ed-497f-9af5-e9416ef12e7f)
+
+
+
 
 
