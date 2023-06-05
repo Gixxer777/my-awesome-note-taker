@@ -25,6 +25,7 @@
 
   3. Jimenez, Andres. Tutor.
   
+  4. Heroku Deployment Guide. (https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide). 2023.
   ## Tests
   N/A
  
