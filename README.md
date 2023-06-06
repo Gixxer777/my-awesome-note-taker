@@ -43,6 +43,7 @@
 
 ![Screenshot 2023-06-05 180607](https://github.com/Gixxer777/my-awesome-note-taker/assets/127446403/72287878-02ed-497f-9af5-e9416ef12e7f)
 
+![Screenshot 2023-06-05 221640](https://github.com/Gixxer777/my-awesome-note-taker/assets/127446403/cc060d90-1021-4fe3-9802-6dc69826094e)
 
 
 
